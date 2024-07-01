@@ -7,7 +7,7 @@
 - **개발 기간:** 2023-11-12 ~ 2023-12-16
 - **핵심 역할:** 제안서, 테이블 정의서, 업무 분석서 작성, SQLite Database 구축, Python 애플리케이션 개발
 - **개발 언어:** Python, SQL
-- **개발 도구:** VSCode, PyQT, SQLite
+- **개발 도구:** VSCode, PyQT, SQLite, DB Designer
 
 ## ERD
 
